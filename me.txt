@@ -1,0 +1,6 @@
+{{#user}}
+Name: Rakshul Mahajan
+Skills: HTML, CSS, JS
+Email: rakshulmahajan@gmail.com
+{{/user}}
+
